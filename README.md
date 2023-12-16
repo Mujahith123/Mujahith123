@@ -7,12 +7,15 @@
 
 # 🤖 MY BOTS 
 <p align="left">
-<a href="https://telegram.me/tamilmovies4Krio_bot"><img alt="AUTOFILTER BOT" src="https://img.shields.io/badge/Mujahith123-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://telegram.me/tamilmovies4Krio_bot"><img alt="AUTOFILTER BOT" src="https://img.shields.io/badge/AUTOFILTER BOT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a 
   </a>
 </p>
 
-#☝️☝️New Bots Coming Soon 🔜
+# ☝️☝️New Bots Coming Soon 🔜
+
+
+
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30px height=30px>&nbsp;***About me***
 <b>• 👨‍💻 Lᴀɴɢᴜᴀɢᴇs: Pʏᴛʜᴏɴ Auto filter Bot Basic Codes Learning Python
