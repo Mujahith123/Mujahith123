@@ -23,9 +23,6 @@
 ## 🏆 GɪᴛHᴜʙ Tʀᴏᴘʜɪᴇs
 ![](https://github-profile-trophy.vercel.app/?username=Mujahith123&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Rᴀɴᴅᴏᴍ Dᴇᴠ Qᴜᴏᴛᴇ
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 
 # ☎️ Cᴏɴᴛᴀᴄᴛ ᴍᴇ
