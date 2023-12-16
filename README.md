@@ -12,7 +12,12 @@
   </a>
 </p>
 
-# ☝️☝️New Bots Coming Soon 🔜
+# ☝️New Bots Coming Soon So join my updates 
+<p align="left">
+<a href="https://telegram.me/teamrioupdates3">
+    &nbsp;<img src="https://img.shields.io/badge/UPDATES CHANNEL-blue?style=for-the-badge&logo=telegram" width="200" height="28">&nbsp;
+  </a>
+</p>
 
 
 
