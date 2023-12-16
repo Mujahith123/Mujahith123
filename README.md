@@ -5,6 +5,15 @@
 </pre>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mujahith123&label=Profile%20views&color=129e00&style=plastic" alt="Mujahith123" /> </p>
 
+# 🤖 MY BOTS 
+<p align="left">
+<a href="https://telegram.me/tamilmovies4Krio_bot"><img alt="AUTOFILTER BOT" src="https://img.shields.io/badge/Mujahith123-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a 
+  </a>
+</p>
+
+#☝️☝️New Bots Coming Soon 🔜
+
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30px height=30px>&nbsp;***About me***
 <b>• 👨‍💻 Lᴀɴɢᴜᴀɢᴇs: Pʏᴛʜᴏɴ Auto filter Bot Basic Codes Learning Python
 <br>• 📚 10th Sᴛᴜᴅᴇɴᴛ ᴀɴᴅ sᴛɪʟʟ ʟᴇᴀʀɴɪɴɢ.</b>
@@ -28,7 +37,7 @@
 # ☎️ Cᴏɴᴛᴀᴄᴛ ᴍᴇ
 <p align="left">
 <a href="https://telegram.me/user_is_leo"><img alt="Telegram" src="https://img.shields.io/badge/Mujahith123-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://telegram.me/supportchatrionetwork2">
+<a href="https://telegram.me.me/+0IbJbqFCZkw2OWE1">
     &nbsp;<img src="https://img.shields.io/badge/Telegram Support-Group-blue?style=for-the-badge&logo=telegram" width="200" height="28">&nbsp;
   </a>
 </p>
@@ -36,7 +45,6 @@
 
 </div>
 
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <p align="left">
 <b>Tʜᴀɴᴋʏᴏᴜ Fᴏʀ Vɪsɪᴛɪɴɢ Mʏ Pʀᴏғɪʟᴇ 😊</b>
